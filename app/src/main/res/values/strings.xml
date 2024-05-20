@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NUTRITRACK</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_bottom_nav">hello</string>
+
+<!--    bottom navbar-->
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="account">Account</string>
+    <string name="home">home</string>
+
+<!--    welcome screen-->
+    <string name="welcomeText1">HEALTHFUL</string>
+    <string name="welcomeText2">Track and improve Health</string>
+    <string name="getStarted">Get Started</string>
+    <string name="imageDesc">NICE UI</string>
+
+<!--    login page -->
+    <string name="email">enter your email</string>
+    <string name="password">enter your password</string>
+    <string name="login">Login</string>
+    <string name="register">New here? Register Now</string>
+    <string name="sub">Your health, your way</string>
+
+    <!--    Register page -->
+<string name="reg">Register</string>
+    <string name="Login">already have an account? LOGIN</string>
+
+<!--    search page-->
+    <string name="searchButton">Search</string>
+    <string name="response">we are here to help you suit your nutrition activity</string>
+    <string name="request">search more about nutrition</string>
+
+
+</resources>
+
+

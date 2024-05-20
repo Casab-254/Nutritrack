@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="discover" type="id" />
+    <item name="favorite" type="id" />
+    <item name="account" type="id" />
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "175272992597",
+    "firebase_url": "https://nutri-track-87f23-default-rtdb.firebaseio.com",
+    "project_id": "nutri-track-87f23",
+    "storage_bucket": "nutri-track-87f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175272992597:android:27092f7423384d4b6799dc",
+        "android_client_info": {
+          "package_name": "com.example.nutri_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9k3vb_xrmhnKTE1YjPyaY5glDkukJsrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175272992597:android:8e36dcc30f730ec86799dc",
+        "android_client_info": {
+          "package_name": "com.example.nutritrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9k3vb_xrmhnKTE1YjPyaY5glDkukJsrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
